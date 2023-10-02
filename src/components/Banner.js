@@ -1,9 +1,8 @@
+import logo from '../assets/logo.png'
 import '../styles/Banner.css'
 
-function Banner() {
-    return (<div className='lmj-banner'>
-        <h1>La maison jungle</h1>
-    </div>)
+function Banner({children}) {
+	return <div className='lmj-banner'>{children}</div>
 }
 
 export default Banner
