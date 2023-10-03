@@ -7,3 +7,11 @@
 	min-height: 400px;
 	
 }
+
+.lmj-categories-select{
+	height: 80px;
+	width: 783px;
+	display: flex;
+	align-items: baseline;
+	justify-content: center;
+}

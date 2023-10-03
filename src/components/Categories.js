@@ -1,4 +1,6 @@
 import { plantList } from "../datas/plantList"
+import '../styles/ShoppingList.css'
+
 
 function Categories({displayedPlant, updateDisplayedPlant}){
     const categories = plantList.reduce(
@@ -19,7 +21,8 @@ function Categories({displayedPlant, updateDisplayedPlant}){
     }
 
     return (
-        <div>
+        <div class='lmj-categories-select'>
+            <p>Pick a plant category : </p><br/>
             <select onChange={(e)=> selectCategory(e.target.value)}>
                 {categories.map((cat) => (
                     <option key={cat} >{cat}</option>
