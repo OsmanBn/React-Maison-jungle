@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Maison-jungle/static/css/main.f1efa26a.chunk.css",
+    "main.js": "/React-Maison-jungle/static/js/main.d9704755.chunk.js",
+    "main.js.map": "/React-Maison-jungle/static/js/main.d9704755.chunk.js.map",
+    "runtime-main.js": "/React-Maison-jungle/static/js/runtime-main.95b04216.js",
+    "runtime-main.js.map": "/React-Maison-jungle/static/js/runtime-main.95b04216.js.map",
+    "static/js/2.b132bc2b.chunk.js": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js",
+    "static/js/2.b132bc2b.chunk.js.map": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js.map",
+    "index.html": "/React-Maison-jungle/index.html",
+    "static/css/main.f1efa26a.chunk.css.map": "/React-Maison-jungle/static/css/main.f1efa26a.chunk.css.map",
+    "static/js/2.b132bc2b.chunk.js.LICENSE.txt": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js.LICENSE.txt",
+    "static/media/monstera.6257bc6b.jpg": "/React-Maison-jungle/static/media/monstera.6257bc6b.jpg",
+    "static/media/sun.26fb5ace.svg": "/React-Maison-jungle/static/media/sun.26fb5ace.svg",
+    "static/media/water.cceb486f.svg": "/React-Maison-jungle/static/media/water.cceb486f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95b04216.js",
+    "static/js/2.b132bc2b.chunk.js",
+    "static/css/main.f1efa26a.chunk.css",
+    "static/js/main.d9704755.chunk.js"
+  ]
+}
