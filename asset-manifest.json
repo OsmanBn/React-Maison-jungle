@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Maison-jungle/static/css/main.b9807948.chunk.css",
+    "main.css": "/React-Maison-jungle/static/css/main.c78df52d.chunk.css",
     "main.js": "/React-Maison-jungle/static/js/main.6f096c18.chunk.js",
     "main.js.map": "/React-Maison-jungle/static/js/main.6f096c18.chunk.js.map",
     "runtime-main.js": "/React-Maison-jungle/static/js/runtime-main.95b04216.js",
@@ -8,7 +8,7 @@
     "static/js/2.b132bc2b.chunk.js": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js",
     "static/js/2.b132bc2b.chunk.js.map": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js.map",
     "index.html": "/React-Maison-jungle/index.html",
-    "static/css/main.b9807948.chunk.css.map": "/React-Maison-jungle/static/css/main.b9807948.chunk.css.map",
+    "static/css/main.c78df52d.chunk.css.map": "/React-Maison-jungle/static/css/main.c78df52d.chunk.css.map",
     "static/js/2.b132bc2b.chunk.js.LICENSE.txt": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js.LICENSE.txt",
     "static/media/Banner.css": "/React-Maison-jungle/static/media/Ban1.6c38da67.jpg",
     "static/media/monstera.6257bc6b.jpg": "/React-Maison-jungle/static/media/monstera.6257bc6b.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.95b04216.js",
     "static/js/2.b132bc2b.chunk.js",
-    "static/css/main.b9807948.chunk.css",
+    "static/css/main.c78df52d.chunk.css",
     "static/js/main.6f096c18.chunk.js"
   ]
 }
