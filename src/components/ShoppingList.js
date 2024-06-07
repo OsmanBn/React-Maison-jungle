@@ -40,6 +40,7 @@ function ShoppingList({cart, updateCart, displayedPlant, updateDisplayedPlant}) 
 						cover={cover}
 						light={light}
 						water={water}
+						price={price}
 					/>
 					<button onClick={()=>addToCart(name, price)}>Ajouter</button>
 				</div>		

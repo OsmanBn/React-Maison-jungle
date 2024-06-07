@@ -1,4 +1,12 @@
 import monstera from '../assets/monstera.jpg'
+import plante1 from '../assets/plante1.jpg'
+import plante2 from '../assets/plante2.jpg'
+import plante3 from '../assets/plante3.jpg'
+import plante4 from '../assets/plante4.jpg'
+import plante5 from '../assets/plante5.jpg'
+import plante6 from '../assets/plante6.jpg'
+import plante7 from '../assets/plante7.jpg'
+import plante8 from '../assets/plante8.jpg'
 
 export const plantList = [
 	{
@@ -17,7 +25,7 @@ export const plantList = [
 		id: '2ab',
 		light: 3,
 		water: 1,
-		cover: monstera,
+		cover: plante1,
 		price: 16
 	},
 	{
@@ -26,7 +34,7 @@ export const plantList = [
 		id: '3sd',
 		light: 1,
 		water: 2,
-		cover: monstera,
+		cover: plante2,
 		price: 30
 	},
 	{
@@ -35,7 +43,7 @@ export const plantList = [
 		id: '4kk',
 		light: 3,
 		water: 1,
-		cover: monstera,
+		cover: plante3,
 		price: 12
 	},
 	{
@@ -44,7 +52,7 @@ export const plantList = [
 		id: '5pl',
 		light: 3,
 		water: 1,
-		cover: monstera,
+		cover: plante4,
 		price: 10
 	},
 	{
@@ -53,7 +61,7 @@ export const plantList = [
 		id: '6uo',
 		light: 2,
 		water: 2,
-		cover: monstera,
+		cover: plante5,
 		price: 15
 	},
 	{
@@ -63,7 +71,7 @@ export const plantList = [
 		isBestSale: true,
 		light: 2,
 		water: 3,
-		cover: monstera,
+		cover: plante6,
 		price: 15
 	},
 	{
@@ -72,7 +80,7 @@ export const plantList = [
 		id: '8fp',
 		light: 2,
 		water: 1,
-		cover: monstera,
+		cover: plante7,
 		price: 16
 	},
 	{
@@ -81,7 +89,7 @@ export const plantList = [
 		id: '9vn',
 		light: 2,
 		water: 1,
-		cover: monstera,
+		cover: plante8,
 		price: 10
 	}
 ]

@@ -3,9 +3,9 @@ import { useState, useEffect } from 'react'
 
 
 function Cart({cart, updateCart, displayedPlant, updateDisplayedPlant}){
-	const monsteraPrice = 8
+	//const monsteraPrice = 8
 	const [isOpen, setIsOpen] = useState(true)
-	// Creation d'un accume=ulateur avec reduce
+	// Creation d'un accumulateur avec reduce
 	const total = cart.reduce(
 		(acc, plantType) => acc + plantType.amount * plantType.price,
 		0
