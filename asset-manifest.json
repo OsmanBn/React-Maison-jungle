@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/React-Maison-jungle/static/css/main.f1efa26a.chunk.css",
-    "main.js": "/React-Maison-jungle/static/js/main.d9704755.chunk.js",
-    "main.js.map": "/React-Maison-jungle/static/js/main.d9704755.chunk.js.map",
+    "main.css": "/React-Maison-jungle/static/css/main.b9807948.chunk.css",
+    "main.js": "/React-Maison-jungle/static/js/main.6f096c18.chunk.js",
+    "main.js.map": "/React-Maison-jungle/static/js/main.6f096c18.chunk.js.map",
     "runtime-main.js": "/React-Maison-jungle/static/js/runtime-main.95b04216.js",
     "runtime-main.js.map": "/React-Maison-jungle/static/js/runtime-main.95b04216.js.map",
     "static/js/2.b132bc2b.chunk.js": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js",
     "static/js/2.b132bc2b.chunk.js.map": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js.map",
     "index.html": "/React-Maison-jungle/index.html",
-    "static/css/main.f1efa26a.chunk.css.map": "/React-Maison-jungle/static/css/main.f1efa26a.chunk.css.map",
+    "static/css/main.b9807948.chunk.css.map": "/React-Maison-jungle/static/css/main.b9807948.chunk.css.map",
     "static/js/2.b132bc2b.chunk.js.LICENSE.txt": "/React-Maison-jungle/static/js/2.b132bc2b.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/React-Maison-jungle/static/media/Ban1.6c38da67.jpg",
     "static/media/monstera.6257bc6b.jpg": "/React-Maison-jungle/static/media/monstera.6257bc6b.jpg",
+    "static/media/plante1.ee1577a4.jpg": "/React-Maison-jungle/static/media/plante1.ee1577a4.jpg",
+    "static/media/plante2.8596e543.jpg": "/React-Maison-jungle/static/media/plante2.8596e543.jpg",
+    "static/media/plante3.592270c6.jpg": "/React-Maison-jungle/static/media/plante3.592270c6.jpg",
+    "static/media/plante4.524f68e5.jpg": "/React-Maison-jungle/static/media/plante4.524f68e5.jpg",
+    "static/media/plante5.5719fcc3.jpg": "/React-Maison-jungle/static/media/plante5.5719fcc3.jpg",
+    "static/media/plante6.4bc5325c.jpg": "/React-Maison-jungle/static/media/plante6.4bc5325c.jpg",
+    "static/media/plante7.cdbf4d7b.jpg": "/React-Maison-jungle/static/media/plante7.cdbf4d7b.jpg",
+    "static/media/plante8.89c39996.jpg": "/React-Maison-jungle/static/media/plante8.89c39996.jpg",
     "static/media/sun.26fb5ace.svg": "/React-Maison-jungle/static/media/sun.26fb5ace.svg",
     "static/media/water.cceb486f.svg": "/React-Maison-jungle/static/media/water.cceb486f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.95b04216.js",
     "static/js/2.b132bc2b.chunk.js",
-    "static/css/main.f1efa26a.chunk.css",
-    "static/js/main.d9704755.chunk.js"
+    "static/css/main.b9807948.chunk.css",
+    "static/js/main.6f096c18.chunk.js"
   ]
 }
